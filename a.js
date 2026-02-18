@@ -11,3 +11,5 @@ const sub = func2(5,5)
 
 console.log(`Soma : ${soma}`)
 console.log(`Subtração ${sub}`)
+
+// Seu código está errado!
