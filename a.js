@@ -1,8 +1,8 @@
-function func1(){ //<----- Corrigir Aqui
+function func1(a,b){
     return a+b;
 }
 
-function func2(){//<----- Corrigir Aqui
+function func2(b,c){
     return b-c;
 }
 
