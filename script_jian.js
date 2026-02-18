@@ -1,5 +1,5 @@
 const sabor = "Portuguêsa"
 const valor = 59
-cont pizzaVoa = true
+const pizzaVoa = true
 
-console.log"("Pizza de", sabor, "R$", valor, ".Ela voa ?", pizzaVoa)"
+console.log(`A Pizza ${sabor} esta Voando? ${valor}`??pizzaVoa)
