@@ -1,6 +1,6 @@
-function teste(){
+function teste(a,b){
     return a+b
 }
 
 const teste2 = teste("ola","b")
-console.log(``)
+console.log(`Ola ${teste2}`)
