@@ -3,4 +3,4 @@ function teste(){
 }
 
 const teste2 = teste("ola","b")
-console.log(``)
+console.log(`Gabriela | Comunista`)
